@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/huacnlee/datatypes"
 	"github.com/jinzhu/now"
-	"gorm.io/datatypes"
 	. "gorm.io/gorm/utils/tests"
 )
 

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"gorm.io/datatypes"
+	"github.com/huacnlee/datatypes"
 	"gorm.io/gorm"
 	. "gorm.io/gorm/utils/tests"
 )

@@ -1,4 +1,4 @@
-module gorm.io/datatypes
+module github.com/huacnlee/datatypes
 
 go 1.14
 
